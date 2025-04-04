@@ -1,0 +1,7 @@
+https://github.com/skills/github-pages.git
+
+cd carrentalapp
+
+pip install-r requirements.txt
+
+python app.py
